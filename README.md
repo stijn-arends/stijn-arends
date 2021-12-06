@@ -20,4 +20,4 @@
 
 ---
 
-<img align="left" alt="stijn-arends Github Stats" src="https://github-readme-stats.vercel.app/api?username=stijn-arends&theme=gotham&show_icons=true&hide_border=true"/>
+<img align="left" alt="stijn-arends Github Stats" src="https://github-readme-stats.vercel.app/api?username=stijn-arends&theme=gotham&count_private=true&show_icons=true&hide_border=true"/>
