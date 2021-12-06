@@ -12,8 +12,14 @@
 ---
 ### Languages and Tools
 
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][python]
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" alt="R" width="26px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/>
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/ios/64/000000/java-coffee-cup-logo--v1.png"/>
+<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/ios/64/000000/sql.png"/>
 
 ---
 
 <img align="left" alt="stijn-arends Github Stats" src="https://github-readme-stats.vercel.app/api?username=stijn-arends&theme=gotham&show_icons=true&hide_border=true"/>
+
+---
+<a href="https://icons8.com/icon/ddMdoLrkgZkC/r">R icon by Icons8</a>
