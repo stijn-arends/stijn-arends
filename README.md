@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stijn-arends&label=Profile%20views&color=0e75b6&style=flat" alt="stijn-arends" /> </p>
+
+
 ### Hi there 👋
 
 
